@@ -60,3 +60,6 @@ typings/
 # Webstorm folder
 .idea
 
+# Practice data
+practice_data
+
